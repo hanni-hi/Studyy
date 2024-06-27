@@ -1,0 +1,7 @@
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\bin\Debug\20240516.exe.config
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\bin\Debug\20240516.exe
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\bin\Debug\20240516.pdb
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\obj\Debug\20240516.csproj.AssemblyReference.cache
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\obj\Debug\20240516.csproj.CoreCompileInputs.cache
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\obj\Debug\20240516.exe
+C:\Users\KGA\source\repos\C#\20240516_C# 객체생성_클래스와 구조체\20240516\obj\Debug\20240516.pdb
